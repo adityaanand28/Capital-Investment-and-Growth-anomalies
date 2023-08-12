@@ -1,7 +1,7 @@
 # Capital-Investment-and-Growth-anomalies
 ## Mentor: Prof. Suman Saurabh
 
-This project is done as a part of Under-Graduate Project (UGP) as a part of the curriculum.
+This project is done as a part of Under-Graduate Project (UGP) in the curriculum.
 
 The objectives of the course was to:
 + Examine anomalies to form a hypotheses and backtest it to determine its efficacy in context to the Indian Market
