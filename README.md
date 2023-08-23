@@ -7,7 +7,8 @@ The objectives of the project was to:
 + Examine anomalies to form a hypotheses and backtest it to determine its efficacy in context to the Indian Market
 
 The approach used was to:
-+ Formulated 3 hypotheses based upon Accounting Risk and Return, Short-Term Reversal and Curve Momentum
++ Formulated 2 hypotheses based on Accounting, Risk and Return and Short-Term Reversal for Indian equities market
++ Created a hypothesis for commodities using Curve Momentum with a look back and holding period of 12 & 1 month
 
 The major outcome of this project was:
 + Achieved a CAGR of 8.6% in Short-term reversal strategy with a maximum drawdown of 46% and a Sharpe of 1.12
