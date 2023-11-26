@@ -11,5 +11,5 @@ The approach used was to:
 + Created a hypothesis for commodities using Curve Momentum with a look back and holding period of 12 & 1 month
 
 The major outcome of this project was:
-+ Achieved a CAGR of 8.6% in Short-term reversal strategy with a maximum drawdown of 46% and a Sharpe of 1.12
++ Achieved a CAGR of 31.6% in Short-term reversal strategy with a maximum drawdown of 46% and a Sharpe of 1.12
 + Increased mean excess return by 6% and reduced volatility by 2% by implementing a curve momentum strategy
