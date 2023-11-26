@@ -1,7 +1,7 @@
 # Capital-Investment-and-Growth-anomalies
 ## Mentor: Prof. Suman Saurabh
 
-This project is done as a part of Under-Graduate Project (UGP) in the curriculum. The code was implemented on the [blueshift](blueshift.quantinsti.com) platform
+This project is done as a part of Under-Graduate Project (UGP) in the curriculum. The code was implemented on the [blueshift](www.blueshift.quantinsti.com) platform
 
 The objectives of the project was to:
 + Examine anomalies to form a hypotheses and backtest it to determine its efficacy in context to the Indian Market
